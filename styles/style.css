@@ -1,4 +1,7 @@
-#spaceship {
+#spaceShip {
     height: 100px;
     width: 100px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
 }
